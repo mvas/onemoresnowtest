@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="my_custom_table" max_length="40" name="x_154589_justsomet_my_custom_table" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Data" max_length="40" name="data" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data1" max_length="40" name="data" type="string"/>
     </element>
 </database>
