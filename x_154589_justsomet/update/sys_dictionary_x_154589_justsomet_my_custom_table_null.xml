@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-01 16:09:00</sys_created_on>
-        <sys_id>f8f010f82ffd10100f542c6df699b6ec</sys_id>
+        <sys_id>35a35c3c2ffd10100f542c6df699b671</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_154589_justsomet_my_custom_table</sys_name>
         <sys_package display_value="justsometest" source="x_154589_justsomet">5c90d4b82ffd10100f542c6df699b644</sys_package>
         <sys_policy/>
         <sys_scope display_value="justsometest">5c90d4b82ffd10100f542c6df699b644</sys_scope>
-        <sys_update_name>sys_dictionary_x_154589_justsomet_my_custom_table_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_154589_justsomet_my_custom_table_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-01 16:09:00</sys_updated_on>
+        <sys_updated_on>2020-07-01 16:20:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
